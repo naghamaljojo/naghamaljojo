@@ -1,16 +1,23 @@
-## Hi there 👋
+### أهلاً بك في حسابي 👋، أنا نغَم
 
-<!--
-**naghamaljojo/naghamaljojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+أنا في بداية رحلتي في عالم البرمجة وتطوير البرمجيات! أتعلم خطوة بخطوة وأبني مشاريعي الخاصة.
 
-Here are some ideas to get you started:
+- 🔭 أعمل حالياً على: [وتعلم ui/ux: تطوير صفحة ويب بسيطة]
+- 🌱 أتعلم حالياً: [UI/UX Design, Figma, and User Research  HTML و CSS و JavaScript]
+- 📫 طريقة للتواصل معي: [ https://www.linkedin.com/in/nagham-aljojo-77b21044b?utm_source=share_via&utm_content=profile&utm_medium=member_android  ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ التقنيات والأدوات التي أستخدمها:
+برامج التصميم:** Figma, Adobe XD
+* **أدوات التخطيط والبحث:** Miro, Notion
+* **أساسيات إضافية:** HTML, CSS *(لمعرفة كيفية تطبيق التصاميم برمجياً)*
+* **أدوات التنظيم:** Git, GitHub
+
+
+---
+
+### 📊 إحصائيات حسابي:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naghamaljojo&show_icons=true&theme=radical" />
+</p>
